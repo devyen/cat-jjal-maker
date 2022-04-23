@@ -66,7 +66,7 @@ const App = () => {
   }
 
   return (
-    <div className="App">
+    <div>
       <Title>
         {counter ? counter + "번째 고양이 가라사대" : "고양이 가라사대"}
       </Title>
